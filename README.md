@@ -1,5 +1,6 @@
 ﻿# HR-Management-Full-Stack
 
- Frontend: Flutter
+
  Backend: Node.js, Express.js
+ Frontend: Flutter
  Database: MongoDB
